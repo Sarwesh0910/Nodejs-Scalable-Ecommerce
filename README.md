@@ -1,4 +1,4 @@
-# 🛒 Scalable E-commerce Backend (Microservices Architecture)
+# 🛒 Scalable E-commerce Backend (Microservices Architecture) 
 A scalable, containerized backend system for an e-commerce platform, built using a microservices architecture.
 https://roadmap.sh/projects/scalable-ecommerce-platform/solutions?u=67074b79fb4be684dbd801db
 
